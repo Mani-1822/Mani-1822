@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @Mani-1822
 - 👀 I’m interested in WEB DEVELOPMENT
 - 🌱 I’m currently learning WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate with Full Stack Developer,Web Developer 
+- 📫 How to reach me indlachinnu123@gmail.com
 
-<!---
-Mani-1822/Mani-1822 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
